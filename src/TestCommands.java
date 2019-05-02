@@ -1,3 +1,12 @@
+
+
+import Command.RebootCommand;
+import Command.RunDiagnosticsCommand;
+import Command.ShutDownCommand;
+import Servers.AsiaServer;
+import Servers.EuroServer;
+import Servers.USServer;
+
 public class TestCommands {
 
     public static void main(String args[])

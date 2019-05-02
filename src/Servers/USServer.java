@@ -1,4 +1,6 @@
-public class USServer implements Receiver{
+package Servers;
+
+public class USServer implements Receiver {
 
     public USServer() {
 

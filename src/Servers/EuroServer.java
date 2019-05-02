@@ -1,3 +1,5 @@
+package Servers;
+
 public class EuroServer implements Receiver {
 
     public EuroServer()

@@ -1,4 +1,9 @@
-public class RebootCommand implements Command{
+package Command;
+
+import Command.Command;
+import Servers.Receiver;
+
+public class RebootCommand implements Command {
 
     Receiver receiver;
     public RebootCommand(Receiver r)

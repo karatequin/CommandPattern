@@ -1,5 +1,6 @@
+package Servers;
 
-public class AsiaServer implements Receiver{
+public class AsiaServer implements Receiver {
 
     public AsiaServer()
     {

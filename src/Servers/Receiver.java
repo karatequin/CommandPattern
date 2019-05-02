@@ -1,3 +1,5 @@
+package Servers;
+
 public interface Receiver {
 
     public void connect();

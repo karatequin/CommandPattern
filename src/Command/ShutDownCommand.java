@@ -1,3 +1,8 @@
+package Command;
+
+import Command.Command;
+import Servers.Receiver;
+
 public class ShutDownCommand implements Command {
 
     Receiver receiver;
